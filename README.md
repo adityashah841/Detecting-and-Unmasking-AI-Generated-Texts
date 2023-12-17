@@ -16,10 +16,10 @@
 
 <h2>Acknowledgements</h2>
 
-- <a href="https://www.linkedin.com/in/utkarsh-verma-7a848622a/">Prateek Ranka</a>
+- <a href="https://www.linkedin.com/in/prateekranka16/">Prateek Ranka</a>
 
-- <a href="https://www.linkedin.com/in/shreya-shah-98698923a/">Urmi Dedhia</a>
+- <a href="https://www.linkedin.com/in/urmi-dedhia-b86337218/">Urmi Dedhia</a>
 
-- <a href="https://www.linkedin.com/in/dishant-zaveri-4301471b9/">Shruti Prasad</a>
+- <a href="https://www.linkedin.com/in/shruti-prasad-859b45208/">Shruti Prasad</a>
 
-- <a href="https://www.linkedin.com/in/dishant-zaveri-4301471b9/">Siddhi Muni</a>
+- <a href="https://www.linkedin.com/in/siddhi-muni-235875217/">Siddhi Muni</a>
