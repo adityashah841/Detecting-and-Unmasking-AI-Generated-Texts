@@ -12,3 +12,14 @@
     </td>
   </tr>
 </table>
+
+
+<h2>Acknowledgements</h2>
+
+- <a href="https://www.linkedin.com/in/utkarsh-verma-7a848622a/">Prateek Ranka</a>
+
+- <a href="https://www.linkedin.com/in/shreya-shah-98698923a/">Urmi Dedhia</a>
+
+- <a href="https://www.linkedin.com/in/dishant-zaveri-4301471b9/">Shruti Prasad</a>
+
+- <a href="https://www.linkedin.com/in/dishant-zaveri-4301471b9/">Siddhi Muni</a>
