@@ -16,6 +16,8 @@ The published research paper is available <a href='https://thesai.org/Publicatio
 
 <h2>Acknowledgements</h2>
 
+- <a href="https://www.linkedin.com/in/aditya-shah-139154208/">Aditya Shah</a>
+
 - <a href="https://www.linkedin.com/in/prateekranka16/">Prateek Ranka</a>
 
 - <a href="https://www.linkedin.com/in/urmi-dedhia-b86337218/">Urmi Dedhia</a>
