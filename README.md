@@ -1,5 +1,7 @@
 # Detecting and Unmasking AI-Generated Texts through Explainable Artificial Intelligence using Stylistic Features
 
+> **Origin:** This project was built as a team. The original repository is [PrateekR16/AiGenText](https://github.com/PrateekR16/AiGenText), and this standalone copy keeps the full commit history. 📄 [Read the published paper (IJACSA 2023)](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=10&Code=IJACSA&SerialNo=110)
+
 Welcome to this project repository! This initiative is a pioneering effort led by our team to unveil the secrets of AI generated texts. Leveraging a combination of advanced techniques like SHAP and LIME this project aims to discover the hidden lexical features and patterns AI uses in generating texts.
 
 ## Abstract
